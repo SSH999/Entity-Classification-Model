@@ -1,0 +1,8 @@
+{"Utterance": "hello hi nancy this is mike from at&t corporation.", "Intent": "greeting", "Entities": {}}
+{"Utterance": "Yes ,how can I help you?", "Intent": null, "Entities": {}}
+{"Utterance": "Nancy you have been using our prepaid connection for  couple of years now. Right?", "Intent": "confirm_usage", "Entities": {}}
+{"Utterance": "Yes Thats right.", "Intent": null, "Entities": {}}
+{"Utterance": "How would u like a postpaid connection that allows you to make free postpaid connection to three AT&T connections?", "Intent": "offer_postpaid", "Entities": {"connections": "three AT&T connections"}}
+{"Utterance": "I would love that but whats the catch?", "Intent": "ask_catch", "Entities": {}}
+{"Utterance": "There is no catch. There will be a monthly rental which you will have to pay like any other postpaid connection.", "Intent": "ask_catch", "Entities": {}}
+{"Utterance": "Fantastic. Sign me up.", "Intent": "signup", "Entities": {}}
